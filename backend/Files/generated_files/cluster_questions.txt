@@ -1,0 +1,16 @@
+Module 1:
+ - VII.    Design and explain a 4 bit asynchronous up-down binary counter.
+ - IX.     Compare TTL and CMOS logic families.
+
+Module 2:
+ - IV.     Explain the design procedure of combinational circuit with an example that converts the BCD to Excess-3 code.
+ - V.      Implement the following function using a multiplexer F(A,B,C,D)--E(1, 3, 4,11,12,13,14,15)
+
+Module 3:
+ - II.     Simplify the following Boolean function into (1) sum-of-products form and (ii) product-of-sums form F(A,B,C,D)-----E(0,1,2,5,8,9,10).
+ - III.    Prove the theorems of Boolean algebra by using postulates.
+ - VIII.   Write short notes on (1) Fan in and Fan out (ii) Propogation delay (iii) Noise margin.
+
+Module 4:
+ - I.  (a) Convert (63.25) 10 to Hexa decimal and octal.
+

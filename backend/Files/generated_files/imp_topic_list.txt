@@ -1,0 +1,6 @@
+Imp_Topics:
+- Full adder
+- Ripple carry adder
+- Look-ahead-carry adder
+- Code converter
+- Decoder

@@ -1,0 +1,31 @@
+Topics: 
+- Combinational circuits
+- Sequential circuits
+- Digital circuits
+- Adder circuits
+- Full adder
+- Half-subtractor
+- Ripple carry adder
+- Look-ahead-carry adder
+- Code converter
+- Code conversion table
+- Gray-style code converter
+- Decoder
+- Encoder
+- DeMultiplexer
+
+Imp_Topics:
+- Full adder
+- Ripple carry adder
+- Look-ahead-carry adder
+- Code converter
+- Decoder
+
+Questions:
+1. What are the two types of digital circuits?
+2. What is a full adder circuit and what does it do?
+3. How is a half-subtractor circuit realized?
+4. How can the subtraction A - B be done?
+5. What is the purpose of a code converter and how does it work?
+6. What is a decoder and how does it differ from an encoder?
+7. What is a DeMultiplexer and how is it used
